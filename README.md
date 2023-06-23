@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shorya saini,22 AKA @kusabimaru17
+- 👋 Hi, I’m Shorya saini,23 AKA @kusabimaru17
  ✦ Learning To Make Internet A Safe Place ✦
 ✧Majorly studying about linux fundamentals, bug hunting,CTF's. Also preparing for OSCP(Offensive Security Certified Professional).
 ✧Technical Skillset ➼ 
