@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shorya saini,23 AKA @kusabimaru17
  ✦ Learning To Make Internet A Safe Place ✦
-✧Majorly studying about linux fundamentals, bug hunting,CTF's. Also preparing for OSCP(Offensive Security Certified Professional).
+ ✦ Everything They Say About Me Is True ✦
 ✧Technical Skillset ➼ 
 ● Languages: C++, C , HTML, CSS, Python, SQL.
 ● Developing skills on Competitive platforms @ Codechef(Coding), HackTheBox(Hacking Playground), Hackerone | Bugcrowd(Bug hunting),
