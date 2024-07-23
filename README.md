@@ -3,8 +3,6 @@
  ✦ Everything They Say About Me Is True ✦
 ✧Technical Skillset ➼ 
 ● Languages: C++, C , HTML, CSS, Python, SQL.
-● Developing skills on Competitive platforms @ Codechef(Coding), HackTheBox(Hacking Playground), Hackerone | Bugcrowd(Bug hunting),
-  TryHackMe(Training platform), picoCTF (Practice Gym).
 ● Others Skills: Adobe After Effects, Adobe Premiere Pro, Adobe illustrator, Adobe Photoshop, MS Office, Webflow.
 📫 How to reach me @linkedin-https://www.linkedin.com/in/shorya-saini-929563219/
 <!---
